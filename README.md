@@ -57,4 +57,4 @@ This simple Encryption Decryption application provides an easy way for users to 
 
 [YouTube video link for the Encryption Decryption App](https://youtu.be/mB8-WYdV0CE?si=d1M5ecVA1a3XnjJ6)
 
-This format offers a concise and clear overview of your Encryption Decryption App project, reflecting the simplicity and functionality of the application.
+This video offers a concise and clear overview of your Encryption Decryption App project, reflecting the simplicity and functionality of the application.
