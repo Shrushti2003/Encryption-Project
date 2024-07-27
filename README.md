@@ -55,7 +55,6 @@ The main objective of this project is to create an easy-to-use tool for encrypti
 ## Conclusion
 This simple Encryption Decryption application provides an easy way for users to secure their text data. It serves as both a practical tool and an educational example of basic encryption and decryption techniques. Users can quickly encrypt and decrypt data with user-defined keys, ensuring their information is protected.
 
-#### YouTube video link for the Encryption Decryption app.
-[https://youtu.be/mB8-WYdV0CE?si=KAegFCibZN01ENw2]
+[YouTube video link for the Encryption Decryption App](https://youtu.be/mB8-WYdV0CE?si=d1M5ecVA1a3XnjJ6)
 
-This video offers a concise and clear overview of your Encryption Decryption project, reflecting the simplicity and functionality of the application. 
+This format offers a concise and clear overview of your Encryption Decryption App project, reflecting the simplicity and functionality of the application.
